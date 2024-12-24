@@ -1,0 +1,15 @@
+{
+  "name": "bookmarker",
+  "version": "1.0.0",
+  "description": "bookmarker",
+  "main": "./app/main.js",
+  "scripts": {
+	"start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Revector",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^16.0.5"
+  }
+}
